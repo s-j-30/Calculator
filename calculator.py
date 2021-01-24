@@ -2,15 +2,15 @@
 """
 basic calculator functions
 """
-import math
+#import math
 
 
 def add(x, y):
     return x + y
 
 
-def multiply(*args):
-    return math.prod(args)
+#def multiply(*args):
+#    return math.prod(args)
 
 
 def subtract(x, y):
